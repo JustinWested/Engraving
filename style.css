@@ -25,15 +25,15 @@ body {
 body > * {
      display: flex;
      flex-direction: column;
+     color: goldenrod;
 }
 
 h1 {
-     color: goldenrod;
      font-weight: 600;
      font-size: 2rem;
+     font-style: italic;
 }
 
 i {
-     color: goldenrod;
      font-size: 400px;
 }
