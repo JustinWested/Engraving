@@ -28,7 +28,7 @@ body > * {
      justify-items: center;
      align-items: center;
      color: goldenrod;
-     margin: 0 auto;
+     margin: 60px auto;
      width: 700px;
      gap: 30px;
 }
