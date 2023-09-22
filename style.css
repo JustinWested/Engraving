@@ -16,3 +16,19 @@
 .clear {
 	clear: both;
 }
+
+
+body {
+     background-color: rgb(0, 0, 0);
+}
+
+h1 {
+     color: goldenrod;
+     font-weight: 600;
+     font-size: 2rem;
+}
+
+i {
+     color: goldenrod;
+     font-size: 400px;
+}
