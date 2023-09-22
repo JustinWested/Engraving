@@ -45,7 +45,13 @@ i {
 
 form {
      display: flex;
-     height: 2rem;
+     height: 3rem;
+     border-radius: 4px;
      gap: 20px;
+     width: 500px;
      flex-direction: column;
+}
+
+textarea {
+     height: 150px;
 }
