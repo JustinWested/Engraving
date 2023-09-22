@@ -27,6 +27,8 @@ body > * {
      flex-direction: column;
      color: goldenrod;
      margin: 0 auto;
+     width: 700px;
+     gap: 30px;
 }
 
 h1 {
